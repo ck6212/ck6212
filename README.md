@@ -17,4 +17,4 @@ I’m passionate about the intersection of **AI**, **Security**, and **Cloud Tec
 ### 📫 Let's Connect  
 💼 [LinkedIn](https://www.linkedin.com/in//can-karapinar)  
 🐙 [GitHub](https://github.com/ck6212)  
-✉️ [your.email@example.com](mailto:ck6212@hotmail.com)
+✉️ [ck6212@hotmail.com]
