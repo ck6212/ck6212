@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hello, World! I'm Can 🌍  
 
-<!--
-**ck6212/ck6212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Master's student in Cyber Security** and currently working as an **IT student in the banking industry** 🏦.  
+I’m passionate about the intersection of **AI**, **Security**, and **Cloud Technologies** — where innovation meets protection 🔐☁️.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🎓 Pursuing my **Master’s in Cyber Security**  
+- 💼 Working in **IT within the Banking sector**  
+- 🤖 Interested in **Artificial Intelligence**, **Security**, and **Cloud Computing**  
+- 🧠 Always exploring how to make systems **smarter and safer**  
+- 🌍 Based in Vienna, Austria 🇦🇹  
+
+---
+
+### 📫 Let's Connect  
+💼 [LinkedIn](https://www.linkedin.com/in//can-karapinar)  
+🐙 [GitHub](https://github.com/ck6212)  
+✉️ [your.email@example.com](mailto:ck6212@hotmail.com)
